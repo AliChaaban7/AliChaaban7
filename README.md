@@ -6,7 +6,7 @@
 
 <br/>
 
-**Turning geospatial data into intelligent, practical solutions.**
+**Transforming geospatial data into intelligent, data-driven solutions.**
 
 </div>
 
