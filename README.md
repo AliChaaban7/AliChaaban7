@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on GeoAI, Deep Learning, and Remote Sensing projects<br>👯 I’m looking to collaborate on GeoAI, GIS, Computer Vision, and Data Science projects<br>🤝 I’m looking for help with open-source GeoAI and advanced ML workflows<br>🌱 I’m currently learning advanced Deep Learning, Computer Vision, MLOps, and Geospatial AI<br>💬 Ask me about Python, GIS, ArcGIS Pro, Remote Sensing, Machine Learning, and Deep Learning<br>
+🔭 I’m currently working on GeoAI, Deep Learning, and Remote Sensing projects<br>👯 I’m looking to collaborate on GeoAI, GIS, Computer Vision, and Data Science projects<br>🌱 I’m currently learning advanced Deep Learning, Computer Vision, MLOps, and Geospatial AI<br>💬 Ask me about Python, GIS, ArcGIS Pro, Remote Sensing, Machine Learning, and Deep Learning<br>
 
 
 # 💻 Tech Stack:
